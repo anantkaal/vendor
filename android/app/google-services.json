@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530291150413",
+    "project_id": "lappas-bb66c",
+    "storage_bucket": "lappas-bb66c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530291150413:android:3e1ed712dec94786695604",
+        "android_client_info": {
+          "package_name": "com.example.vendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530291150413-f1mpf612g54cqqfpj0j2g4kpktb6mshc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgd0A8qigKgimX1ZZzyFsVGGC3roAB8Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530291150413-f1mpf612g54cqqfpj0j2g4kpktb6mshc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
